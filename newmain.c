@@ -1,5 +1,6 @@
 #include <xc.h>
 
+//initialisation
 int i=0;
 
 //void1
